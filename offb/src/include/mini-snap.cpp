@@ -1,4 +1,4 @@
-#include "movement.h"
+#include "mini-snap.h"
 #include <algorithm>
 
 movement::movement(vector<waypts> pts)
